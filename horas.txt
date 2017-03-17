@@ -1,0 +1,7 @@
+1- Generar una fecha de expiracion para poder agregar proyectos
+2- Validar que el usuario solo puede agregar un proyecto.
+3- Registrar los projects terminados(Graficar) barra de insercion(Cuands proyectos terminaron y cuantos no se terminaron en el año.).
+Continuidad y los que no.
+
+
+2 marzo 10 horas
